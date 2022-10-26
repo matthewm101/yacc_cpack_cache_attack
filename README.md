@@ -2,7 +2,7 @@
 
 This repository contains a simulation of a proof-of-concept compressed cache attack on a cache using YACC as its architecture and C-PACK as its compression algorithm. This attack is based on the attack used in the Safecracker paper.
 
-Further details about how the attack works can be found in my paper: TODO
+Further details about how the attack works can be found in [my paper](https://github.com/matthewm101/yacc_cpack_cache_attack/blob/main/CompressedCacheAttacksPaper.pdf).
 
 Information about YACC, C-PACK, and Safecracker can be found using the following sources:
 
